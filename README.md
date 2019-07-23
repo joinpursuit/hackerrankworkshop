@@ -111,3 +111,5 @@ Once you have passed the test cases, click the "Submit Code" button to have your
 3. https://www.hackerrank.com/challenges/the-hurdle-race/problem
 
 4. https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
+
+5. https://www.hackerrank.com/challenges/chocolate-feast/problem?h_r=internal-search
